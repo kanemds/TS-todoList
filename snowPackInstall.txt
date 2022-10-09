@@ -1,0 +1,7 @@
+npx create-snowpack-app . --template @snowpack/app-template-bl
+ank-typescript 
+
+if want it to install current folder 
+
+npx create-snowpack-app . --template @snowpack/app-template-bl
+ank-typescript --force
